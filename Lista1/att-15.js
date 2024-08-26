@@ -17,4 +17,4 @@ function anosVividos(nascimento, anoAtual) {
     return anosDeVida
 }
 
-verifyVida("Vanderson", 1999)
+verifyVida("Vannely", 2000)

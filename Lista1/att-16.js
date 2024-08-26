@@ -53,5 +53,5 @@ console.log(resolucao(2,2,2))
 //Isósceles - valido
 console.log(resolucao(3,3,2))
 
-//Escaleno
+//Escaleno - valido
 console.log(resolucao(3,4,5))

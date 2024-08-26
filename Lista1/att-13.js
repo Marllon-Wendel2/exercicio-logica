@@ -4,7 +4,7 @@
 let maiorIdd = 18;
 
 function ehMaior(nome, idd) {
-    if(idd >= 18) {
+    if(idd >= maiorIdd) {
         console.log(`${nome} é maior de idade`)
     } else {
         console.log(`${nome} é menor de idade`)
