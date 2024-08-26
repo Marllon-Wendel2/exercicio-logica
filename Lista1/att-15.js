@@ -8,7 +8,7 @@ function verifyVida(nome, nascimento) {
     const mesesDeVida = anosDeVida * 12;
     const diasDeVida =  mesesDeVida * 365;
 
-    console.log(`${nome} nasceu em ${nascimento} e já viveu ${anosDeVida} anos, que são ${mesesDeVida} meses, que são ${diasDeVida}!!`)
+    console.log(`${nome} nasceu em ${nascimento} e já viveu ${anosDeVida} anos, que são ${mesesDeVida} meses, que são ${diasDeVida} dias!!`)
     
 }
 
