@@ -1,0 +1,20 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "description": "Lista de exercicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marllon-Wendel2/exercicio-logica.git"
+  },
+  "author": "Marllon Wendel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marllon-Wendel2/exercicio-logica/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Marllon-Wendel2/exercicio-logica#readme"
+}

@@ -1,10 +1,5 @@
 //Faça um Programa que peça dois números e imprima a soma.
-const readline = require("readline");
-
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
+import rl from "../user.js";
 
 function somaNumeros(number1) {
     rl.question("Qual  o segundo número a sersomado?", (number2) => {
