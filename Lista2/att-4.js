@@ -1,5 +1,5 @@
 //Faça um Programa que peça as 4 notas bimestrais e mostre a média.
-import rl from "../user.js";
+import cli from "../cli.js";
 
 let notas = [];
 let interacao = 0;
@@ -11,14 +11,14 @@ function incremetaNota(nota) {
 
 function perguntarNota() {
     if(interacao < 4) {
-        rl.question(`Qual foi a nota ${interacao + 1}?`, (nota) => {
+        cli.question(`Qual foi a nota ${interacao + 1}?`, (nota) => {
             incremetaNota(nota);
             interacao++
             perguntarNota()
         });
     } else {
         calculaMedia()
-        rl.close()
+        cli.close()
     }
 }
 

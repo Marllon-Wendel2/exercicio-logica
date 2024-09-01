@@ -1,8 +1,8 @@
 import { createInterface } from "readline";
 
-const rl = createInterface({
+const cli = createInterface({
     input: process.stdin,
     output: process.stdout
 });
 
-export default rl;
+export default cli;
