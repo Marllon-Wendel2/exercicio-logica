@@ -13,13 +13,18 @@
 import cli from "../cli.js";
 
 function calculaValorPago(metros) {
-    const litrosDeTinta = metros / 6;
-    const litroEmLata = Math.floor(litrosDeTinta)
-    const litroRetante =  Math.ceil(litrosDeTinta - litroEmLata)
+    const converteNumber = Number(metros)
+    const litrosDeTinta = Math.ceil(converteNumber / 6);
+    const quantidadeDeLatas = Math.floor(litrosDeTinta / 18);
+    const quantidadeDeGalao =  Math.ceil((litrosDeTinta - (quantidadeDeLatas * 18)) / 3.6);
 
-    const valorDasLatas =  (litroEmLata / 18) * 80
-    console.log(litrosDeTinta)
+    const valorDasLatas =  quantidadeDeLatas * 80;
+    const valorDosGaloes = quantidadeDeGalao * 25;
+    const valorTotal = valorDasLatas + valorDosGaloes;
+
+    console.log(`Será necessário ${quantidadeDeLatas} latas e ${quantidadeDeGalao} galões de tinta. \nO valor das latas será de R$${valorDasLatas.toFixed(2)}.\nO Valor dos galões é de R$${valorDosGaloes.toFixed(2)}.\nO valor total a pagar é de R$${valorTotal}.`)
+    cli.close()
  
 }
 
-calculaValorPago(100)
+cli.question("Quantos metros quadrados deseja pintar?", (metros) => calculaValorPago(metros))
