@@ -178,11 +178,11 @@ O programa deve calcular a média alcançada por aluno e apresentar:
 
 Faça um Programa que leia três números e mostre o maior deles.
 
-#### Exercicio 025
+#### Exercicio 025 REPITIVO
 
 Faça um Programa que leia três números e mostre o maior e o menor deles.
 
-#### Exercicio 026
+#### Exercicio 026 REALIZADO
 
 Faça um programa que pergunte o preço de três produtos e informe qual produto
 você deve comprar, sabendo que a decisão é sempre pelo mais barato.

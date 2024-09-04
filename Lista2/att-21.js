@@ -3,7 +3,7 @@ import cli from "../cli.js";
 
 function ordenarNumbers(numeros) {
     numeros.sort((a, b) => a - b);
-    return numeros[numeros.length -1]
+    return numeros[0]
 }
 
 cli.question("Informe um número: ", (numero1) => {
