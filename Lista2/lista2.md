@@ -191,7 +191,7 @@ você deve comprar, sabendo que a decisão é sempre pelo mais barato.
 
 Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
-#### Exercicio 028
+#### Exercicio 028 REALIZADO
 
 Faça um Programa que pergunte em que turno você estuda.
 Peça para digitar M-matutino ou V-Vespertino ou N- Noturno.
@@ -199,7 +199,7 @@ Peça para digitar M-matutino ou V-Vespertino ou N- Noturno.
 Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou
 "Valor Inválido!", conforme o caso.
 
-#### Exercicio 029
+#### Exercicio 029 REALIZADO
 
 As Organizações Tabajara resolveram dar um aumento de salário aos seus
 colaboradores e lhe contrataram para desenvolver o programa que calculará os
@@ -219,7 +219,7 @@ seguinte critério, baseado no salário atual:
         o valor do aumento;
         o novo salário, após o aumento.
 
-#### Exercicio 030
+#### Exercicio 030 REALIZADO
 
 Faça um programa para o cálculo de uma folha de pagamento, sabendo que os
 descontos são do Imposto de Renda, que depende do salário bruto
@@ -246,7 +246,7 @@ No exemplo o valor da hora é 5 e a quantidade de hora é 220.
         Total de descontos              : R$  165,00
         Salário Liquido                 : R$  935,00
 
-#### Exercicio 031
+#### Exercicio 031  REALIZADO
 
 Faça um Programa que leia um número e exiba o dia correspondente da semana.
 (1-Domingo, 2- Segunda, etc.),

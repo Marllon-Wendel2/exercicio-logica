@@ -25,5 +25,5 @@ cli.question("Informe a primeira nota: ", (nota1) => {
         }
         calculaMedia(nota1, nota2)
 
-    })
+})
 })
