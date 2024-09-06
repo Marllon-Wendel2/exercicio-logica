@@ -252,7 +252,7 @@ Faça um Programa que leia um número e exiba o dia correspondente da semana.
 (1-Domingo, 2- Segunda, etc.),
 se digitar outro valor deve aparecer valor inválido.
 
-#### Exercicio 032
+#### Exercicio 032 REALIZDO
 
 Faça um programa que lê as duas notas parciais obtidas por um aluno numa
 disciplina ao longo de um semestre, e calcule a sua média.
@@ -269,7 +269,7 @@ O algoritmo deve mostrar na tela as notas, a média,
 o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C
 ou “REPROVADO” se o conceito for D ou E.
 
-#### Exercicio 033
+#### Exercicio 033 RELIZADO
 
 Faça um Programa que peça os 3 lados de um triângulo.
 O programa deverá informar se os valores podem ser um triângulo.
@@ -283,7 +283,7 @@ Dicas:
     Triângulo Isósceles: quaisquer dois lados iguais;
     Triângulo Escaleno: três lados diferentes;
 
-#### Exercicio 034
+#### Exercicio 034 REALIZADOI
 
 Faça um programa que calcule as raízes de uma equação do segundo grau,
 na forma ax² + bx + c.
