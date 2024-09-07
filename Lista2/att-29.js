@@ -21,7 +21,22 @@ function resolveEquecao(arrValor) {
     let c = arrValor[2];
     let x;
 
+    if (a === 0) {
+        console.log("O valor de 'a' não pode ser zero. A equação não é do segundo grau.");
+        cli.close();
+        return;
+    }
+
     const delta = (b * b) - (4 * (a * c));
+
+    // Verifica se o delta é igual a zero
+    if (delta === 0) {
+        const x = -b / (2 * a);
+        console.log(`A equação possui apenas uma raiz real: x = ${x.toFixed(2)}`);
+        cli.close();
+        return;
+    }
+    
     console.log(Math.sqrt(delta))
     const x1= ((-(b))+(Math.sqrt(delta))) / (2 * a)
     const x2= ((-(b))-(Math.sqrt(delta))) / (2 * a)

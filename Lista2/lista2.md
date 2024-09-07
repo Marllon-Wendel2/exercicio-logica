@@ -301,12 +301,12 @@ informando ao usuário nas seguintes situações:
     Se o delta for positivo, a equação possui duas raiz reais;
         informe-as ao usuário;
 
-#### Exercicio 035
+#### Exercicio 035 REALIZADO
 
 Faça um Programa que peça um número correspondente a um determinado ano e em
 seguida informe se este ano é ou não bissexto.
 
-#### Exercicio 036
+#### Exercicio 036 REALIZADO
 
 Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma
 é uma data válida.
