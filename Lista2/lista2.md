@@ -311,7 +311,7 @@ seguida informe se este ano é ou não bissexto.
 Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma
 é uma data válida.
 
-#### Exercicio 037
+#### Exercicio 037 REALIZADO
 
 Faça um Programa que leia um número inteiro maior que 0 e menor que 1000 e
 imprima a quantidade de centenas, dezenas e unidades do mesmo.
