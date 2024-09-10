@@ -367,7 +367,7 @@ frase que diga se o número é:
     positivo ou negativo;
     inteiro ou decimal.
 
-#### Exercicio 042
+#### Exercicio 042 REALIZADO
 
 Faça um programa que faça 5 perguntas para uma pessoa sobre um crime.
 As perguntas são:
@@ -384,7 +384,7 @@ Se a pessoa responder positivamente a 2 questões ela deve ser classificada
 como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino".
 Caso contrário, ele será classificado como "Inocente".
 
-#### Exercicio 043
+#### Exercicio 043 REALIZADO
 
 Um posto está vendendo combustíveis com a seguinte tabela de descontos:
     Álcool:
