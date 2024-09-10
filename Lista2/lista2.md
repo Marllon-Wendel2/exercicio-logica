@@ -325,7 +325,7 @@ Exemplo:
 Testar com:
 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16
 
-#### Exercicio 038
+#### Exercicio 038 REALIZADO
 
 Faça um Programa para um caixa eletrônico.
 
