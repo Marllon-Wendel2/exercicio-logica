@@ -346,17 +346,17 @@ Exemplo 2:
 Para sacar a quantia de 399 reais, o programa fornece três notas de 100,
 uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.
 
-#### Exercicio 039
+#### Exercicio 039 REALIZADO
 
 Faça um Programa que peça um número inteiro e determine se ele é par ou impar.
 Dica: utilize o operador módulo (resto da divisão).
 
-#### Exercicio 040
+#### Exercicio 040 REALIZADO
 
 Faça um Programa que peça um número e informe se o número é inteiro ou decimal.
 Dica: utilize uma função de arredondamento.
 
-#### Exercicio 041
+#### Exercicio 041 REALIZADO
 
 Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual
 operação ele deseja realizar.
