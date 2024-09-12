@@ -462,7 +462,7 @@ Faça um programa que leia e valide as seguintes informações:
     Sexo: 'f' ou 'm';
     Estado Civil: 's', 'c', 'v', 'd';
 
-#### Exercicio 049
+#### Exercicio 049 REALIZADO
 
 Supondo que a população de um país A seja da ordem de 80000 habitantes com uma
 taxa anual de crescimento de 3% e que a população de B seja 200000 habitantes
@@ -472,17 +472,17 @@ Faça um programa que calcule e escreva o número de anos necessários para que 
 população do país A ultrapasse ou iguale a população do país B, mantidas as
 taxas de crescimento.
 
-#### Exercicio 050
+#### Exercicio 050 REALIZADO
 
 Altere o programa anterior permitindo ao usuário informar as populações e as
 taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
 
-#### Exercicio 051
+#### Exercicio 051 REALIZADO
 
 Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro.
 Depois modifique o programa para que ele mostre os números um ao lado do outro.
 
-#### Exercicio 052
+#### Exercicio 052 REALIZADO
 
 Faça um programa que leia 5 números e informe o maior número.
 
