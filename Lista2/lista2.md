@@ -441,19 +441,19 @@ usuário e gere um cupom fiscal, contendo as informações da compra:
 
 ### Estruturas de repetição
 
-#### Exercicio 046
+#### Exercicio 046 REALIZADO
 
 Faça um programa que peça uma nota, entre zero e dez.
 Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o
 usuário informe um valor válido.
 
-#### Exercicio 047
+#### Exercicio 047 REALIZADO
 
 Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha
 igual ao nome do usuário, mostrando uma mensagem de erro e voltando a
 pedir as informações.
 
-#### Exercicio 048
+#### Exercicio 048 REALIZADO
 
 Faça um programa que leia e valide as seguintes informações:
     Nome: maior que 3 caracteres;
