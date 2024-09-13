@@ -486,15 +486,15 @@ Depois modifique o programa para que ele mostre os números um ao lado do outro.
 
 Faça um programa que leia 5 números e informe o maior número.
 
-#### Exercicio 053
+#### Exercicio 053 REALIZADO
 
 Faça um programa que leia 5 números e informe a soma e a média dos números.
 
-#### Exercicio 054
+#### Exercicio 054 REALIZADO
 
 Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
 
-#### Exercicio 055
+#### Exercicio 055 REALIZADO
 
 Faça um programa que receba dois números inteiros e gere os números inteiros
 que estão no intervalo compreendido por eles.
