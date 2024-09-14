@@ -521,12 +521,12 @@ Faça um programa que peça dois números, base e expoente,
 calcule e mostre o primeiro número elevado ao segundo número.
 Não utilize a função de potência da linguagem.
 
-#### Exercicio 059
+#### Exercicio 059 REALIZADO
 
 Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de
 números pares e a quantidade de números impares.
 
-#### Exercicio 060
+#### Exercicio 060 REALIZADO
 
 A série de Fibonacci é formada pela seqüência 1,1,2,3,5,8,13,21,34,55,...
 Faça um programa capaz de gerar a série até o n−ésimo termo.
