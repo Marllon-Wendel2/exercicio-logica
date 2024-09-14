@@ -499,11 +499,11 @@ Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
 Faça um programa que receba dois números inteiros e gere os números inteiros
 que estão no intervalo compreendido por eles.
 
-#### Exercicio 056
+#### Exercicio 056 REALIZADO
 
 Altere o programa anterior para mostrar no final a soma dos números.
 
-#### Exercicio 057
+#### Exercicio 057 REALIZADO
 
 Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número
 inteiro entre 1 a 10.
@@ -515,7 +515,7 @@ A saída deve ser conforme o exemplo abaixo:
     ...
     5 X 10 = 50
 
-#### Exercicio 058
+#### Exercicio 058 REALIZADO
 
 Faça um programa que peça dois números, base e expoente,
 calcule e mostre o primeiro número elevado ao segundo número.
