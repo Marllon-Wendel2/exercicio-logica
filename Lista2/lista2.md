@@ -531,7 +531,7 @@ números pares e a quantidade de números impares.
 A série de Fibonacci é formada pela seqüência 1,1,2,3,5,8,13,21,34,55,...
 Faça um programa capaz de gerar a série até o n−ésimo termo.
 
-#### Exercicio 061 
+#### Exercicio 061 REALIZADO
 
 Faça um programa que calcule o fatorial de um número inteiro fornecido pelo
 usuário. Ex.: 5!=5.4.3.2.1=120
