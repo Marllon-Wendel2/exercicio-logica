@@ -551,13 +551,13 @@ Altere o programa de cálculo do fatorial, permitindo ao usuário calcular o
 fatorial várias vezes e limitando o fatorial a números inteiros positivos e
 menores que 16.
 
-#### Exercicio 065
+#### Exercicio 065 REALIZADO
 
 Faça um programa que peça um número inteiro e determine se ele é ou não um
 número primo. Um número primo é aquele que é divisível somente por ele mesmo
 e por 1.
 
-#### Exercicio 066
+#### Exercicio 066 REALIZADO
 
 Altere o programa de cálculo dos números primos, informando, caso o número não
 seja primo, por quais número ele é divisível.
