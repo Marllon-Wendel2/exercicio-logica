@@ -562,7 +562,7 @@ e por 1.
 Altere o programa de cálculo dos números primos, informando, caso o número não
 seja primo, por quais número ele é divisível.
 
-#### Exercicio 067
+#### Exercicio 067 REPETITIVO
 
 Faça um programa que mostre todos os primos entre 1 e N sendo N um número
 inteiro fornecido pelo usuário.
@@ -573,11 +573,11 @@ encontrar os números primos.
 Serão avaliados o funcionamento, o estilo e o número de testes (divisões)
 executados.
 
-#### Exercicio 068
+#### Exercicio 068 REALIZADO
 
 Faça um programa que calcule o mostre a média aritmética de N notas.
 
-#### Exercicio 069
+#### Exercicio 069 REALIZADO
 
 Faça um programa que peça para n pessoas a sua idade, ao final o programa
 deverá verificar se a média de idade da turma varia entre 0 e 25,26 e 60 e
