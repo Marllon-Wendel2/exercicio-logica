@@ -584,14 +584,14 @@ deverá verificar se a média de idade da turma varia entre 0 e 25,26 e 60 e
 maior que 60; e então, dizer se a turma é jovem, adulta ou idosa, conforme a
 média calculada.
 
-#### Exercicio 070
+#### Exercicio 070 REALIZADO
 
 Numa eleição existem três candidatos.
 Faça um programa que peça o número total de eleitores.
 Peça para cada eleitor votar e ao final mostrar o número de votos
 de cada candidato.
 
-#### Exercicio 071
+#### Exercicio 071 REALIZADO
 
 Faça um programa que calcule o número médio de alunos por turma.
 Para isto, peça a quantidade de turmas e a quantidade de
