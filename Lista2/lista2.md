@@ -598,13 +598,13 @@ Para isto, peça a quantidade de turmas e a quantidade de
 alunos para cada turma.
 As turmas não podem ter mais de 40 alunos.
 
-#### Exercicio 072
+#### Exercicio 072 REALIZADO
 
 Faça um programa que calcule o valor total investido por um colecionador em sua
 coleção de CDs e o valor médio gasto em cada um deles.
 O usuário deverá informar a quantidade de CDs e o valor para em cada um.
 
-#### Exercicio 073
+#### Exercicio 073 REALIZADO (EASY)
 
 O Sr. Manoel Joaquim possui uma grande loja de artigos de R$ 1,99,
 com cerca de 10 caixas.
