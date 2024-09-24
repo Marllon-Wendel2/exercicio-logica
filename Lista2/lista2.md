@@ -626,7 +626,7 @@ conforme o exemplo abaixo:
     ...
     50 - R$ 99.50
 
-#### Exercicio 074
+#### Exercicio 074 REALIZADO
 
 O Sr. Manoel Joaquim acaba de adquirir uma panificadora e pretende implantar a
 metodologia da tabelinha, que já é um sucesso na sua loja de 1,99.
@@ -642,7 +642,7 @@ conforme o exemplo abaixo:
     ...
     50 - R$ 9.00
 
-#### Exercicio 075
+#### Exercicio 075 RESOLVIDO
 
 O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e
 agora possui uma loja de conveniências.
