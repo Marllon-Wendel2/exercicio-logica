@@ -53,11 +53,6 @@ function ordenaLista(lista) {
     return lista.sort((a ,b) => a- b);
 }
 
-// function calculaMedia(lista) {
-//     const somaValores =  lista.reduce((acumulador, valor) = acumulador + valor, 0);
-//     return somaValores/lista.length
-// }
-
 function calculaMedia2(lista) {
     let soma = 0;
     for(let index in lista) {

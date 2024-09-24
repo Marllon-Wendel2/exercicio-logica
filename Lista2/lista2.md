@@ -669,14 +669,14 @@ A saída deve ser conforme o exemplo abaixo:
     Dinheiro: R$ 20.00
     Troco: R$ 11.00
 
-#### Exercicio 076
+#### Exercicio 076 REALIZADO
 
 O Departamento Estadual de Meteorologia lhe contratou para desenvolver um
 programa que leia as um conjunto indeterminado de temperaturas,
 e informe ao final a menor e a maior temperaturas informadas,
 bem como a média das temperaturas.
 
-#### Exercicio 077
+#### Exercicio 077 REALIZADO
 
 Desenvolva um programa que faça a tabuada de um número qualquer inteiro que
 será digitado pelo usuário, mas a tabuada não deve necessariamente iniciar em 1
@@ -695,7 +695,7 @@ usuário, conforme exemplo abaixo:
 
 Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
 
-#### Exercicio 078
+#### Exercicio 078 REALIZADO
 
 Uma academia deseja fazer um senso entre seus clientes para descobrir o mais
 alto, o mais baixo, a mais gordo e o mais magro, para isto você deve fazer um
