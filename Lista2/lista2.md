@@ -709,7 +709,7 @@ Ao encerrar o programa também deve ser informados os códigos e valores do
 clente mais alto, do mais baixo, do mais gordo e do mais magro, além da média
 das alturas e dos pesos dos clientes.
 
-#### Exercicio 079
+#### Exercicio 079 REALIZADO
 
 Um funcionário de uma empresa recebe aumento salarial anualmente.
 
