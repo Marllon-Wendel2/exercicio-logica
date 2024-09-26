@@ -723,7 +723,7 @@ Faça um programa que determine o salário atual desse funcionário.
 Após concluir isto, altere o programa permitindo que o usuário digite o salário
 inicial do funcionário.
 
-#### Exercicio 080
+#### Exercicio 080 REALIZADO
 
 Faça um programa que leia dez conjuntos de dois valores,
 o primeiro representando o número do aluno e o segundo representando
@@ -734,7 +734,7 @@ Encontre o aluno mais alto e o mais baixo.
 Mostre o número do aluno mais alto e o número do aluno mais baixo,
 junto com suas alturas.
 
-#### Exercicio 081
+#### Exercicio 081 REALIZADO
 
 Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre
 acidentes de trânsito.
