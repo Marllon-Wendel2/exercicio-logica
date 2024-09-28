@@ -18,11 +18,11 @@ informado foi [número].
 
 Faça um Programa que peça dois números e imprima a soma.
 
-#### Exercicio 004
+#### Exercicio 004 REALIZADO
 
 Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
-#### Exercicio 005
+#### Exercicio 005 REALIZADO
 
 Faça um Programa que converta metros para centímetros.
 
