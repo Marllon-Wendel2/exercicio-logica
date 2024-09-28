@@ -9,12 +9,12 @@ Como são resoluções para um curso de Lógica de Programação (nível inicant
 
 Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
-#### Exercicio 002
+#### Exercicio 002 REALIZADO
 
 Faça um Programa que peça um número e então mostre a mensagem O número
 informado foi [número].
 
-#### Exercicio 003
+#### Exercicio 003 REALIZADO
 
 Faça um Programa que peça dois números e imprima a soma.
 
