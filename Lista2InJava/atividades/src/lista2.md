@@ -26,11 +26,11 @@ Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
 Faça um Programa que converta metros para centímetros.
 
-#### Exercicio 006
+#### Exercicio 006 REALIZADO
 
 Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
-#### Exercicio 007
+#### Exercicio 007 REALIZADO
 
 Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro
 desta área para o usuário.
