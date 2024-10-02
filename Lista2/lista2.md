@@ -642,7 +642,7 @@ conforme o exemplo abaixo:
     ...
     50 - R$ 9.00
 
-#### Exercicio 075 RESOLVIDO
+#### Exercicio 075 REALIZADO
 
 O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e
 agora possui uma loja de conveniências.
@@ -751,7 +751,7 @@ Deseja-se saber:
     Qual a média de acidentes de trânsito nas cidades com menos de
         2.000 veículos de passeio.
 
-#### Exercicio 082
+#### Exercicio 082 REALIZADO
 
 Faça um programa que receba o valor de uma dívida e mostre uma tabela com os
 seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e

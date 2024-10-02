@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Atividade7 {
     public static void main(String[] args) {
+        LimparConsole.limpa();
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Qual o valor do lado do quadrado? ");
