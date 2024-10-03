@@ -771,7 +771,7 @@ Exemplo de saída do programa:
     R$ 1.100,00     100             3                       R$    366,00
     R$ 1.150,00     150             6                       R$    191,67
 
-#### Exercicio 083
+#### Exercicio 083 REALIZADO
 
 Faça um programa que leia uma quantidade indeterminada de números positivos e
 conte quantos deles estão nos seguintes intervalos:
