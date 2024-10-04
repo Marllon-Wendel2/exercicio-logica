@@ -51,7 +51,7 @@ C = (5 * (F-32) / 9).
 Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre
 em graus Farenheit.
 
-#### Exercicio 011
+#### Exercicio 011 REALIZADO
 
 Faça um Programa que peça 2 números inteiros e um número real.
 Calcule e mostre:
@@ -59,7 +59,7 @@ Calcule e mostre:
     a soma do triplo do primeiro com o terceiro.
     o terceiro elevado ao cubo.
 
-#### Exercicio 012
+#### Exercicio 012 REALIZADO
 
 Tendo como dados de entrada a altura de uma pessoa,
 construa um algoritmo que calcule seu peso ideal,
