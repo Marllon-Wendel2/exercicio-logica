@@ -65,7 +65,7 @@ Tendo como dados de entrada a altura de uma pessoa,
 construa um algoritmo que calcule seu peso ideal,
 usando a seguinte fórmula: (72.7*altura) - 58
 
-#### Exercicio 013
+#### Exercicio 013 REALIZADO
 
 Tendo como dado de entrada a altura (h) de uma pessoa,
 construa um algoritmo que calcule seu peso ideal,
@@ -73,7 +73,7 @@ utilizando as seguintes fórmulas:
     Para homens: (72.7*h) - 58
     Para mulheres: (62.1*h) - 44.7
 
-#### Exercicio 014
+#### Exercicio 014 REALIZADO
 
 João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar
 o rendimento diário de seu trabalho.
