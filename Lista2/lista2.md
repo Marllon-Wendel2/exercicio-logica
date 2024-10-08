@@ -779,7 +779,7 @@ conte quantos deles estão nos seguintes intervalos:
 
 A entrada de dados deverá terminar quando for lido um número negativo.
 
-#### Exercicio 084
+#### Exercicio 084 REALIZADO
 
 O cardápio de uma lanchonete é o seguinte:
     Especificação   Código  Preço
