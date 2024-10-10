@@ -797,7 +797,7 @@ geral do pedido.
 
 Considere que o cliente deve informar quando o pedido deve ser encerrado.
 
-#### Exercicio 085
+#### Exercicio 085 REALIZADO
 
 Em uma eleição presidencial existem quatro candidatos.
 Os votos são informados por meio de código.
