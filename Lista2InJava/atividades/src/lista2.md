@@ -111,7 +111,7 @@ calcule os descontos e o salário líquido, conforme a tabela abaixo:
 
 Obs.: Salário Bruto - Descontos = Salário Líquido.
 
-#### Exercicio 016
+#### Exercicio 016 RESOLVIDO
 
 Faça um programa para uma loja de tintas.
 O programa deverá pedir o tamanho em metros quadrados da área a ser pintada.
