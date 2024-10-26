@@ -17,8 +17,29 @@
 
 package atividades.src;
 
+import java.util.Scanner;
+
 public class Atividade16 {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Quantos metros quadrados deseja pintar? ");
+        double areaPainted = scanner.nextDouble();
+        double liters = areaPainted / 6;
+
+        double litersInCans = Math.ceil(liters);
+        double qtdOfCans = Math.floor(litersInCans / 18); 
+
+
+        double qtdOgGallon = Math.ceil((liters - (qtdOfCans * 18)) / 3.6);
+
+        double valueCans = qtdOfCans * 80.00;
+        double valueGallon =  qtdOgGallon * 25.00;
+
+
+        System.out.println(String.format("Você ira precisa de %.2f latas de tinta que custarão R$%.2f e de %.2f galões que custarão R$%.2f!", qtdOfCans, valueCans, qtdOgGallon, valueGallon));
+
+        scanner.close();
         
     }
 }
