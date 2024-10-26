@@ -122,7 +122,7 @@ quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00.
 Informe ao usuário a quantidades de latas de tinta
 a serem compradas e o preço total.
 
-#### Exercicio 017
+#### Exercicio 017 RESOLVIDO
 
 Faça um Programa para uma loja de tintas.
 
