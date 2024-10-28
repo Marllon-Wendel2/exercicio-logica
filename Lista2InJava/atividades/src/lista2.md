@@ -141,7 +141,7 @@ e os respectivos preços em 3 situações:
         Acrescente 10% de folga e sempre arredonde os valores para cima,
         isto é, considere latas cheias.
 
-#### Exercicio 018
+#### Exercicio 018 REALIZADO
 
 Faça um programa que peça o tamanho de um arquivo para download (em MB) e a
 velocidade de um link de Internet (em Mbps), calcule e informe o tempo

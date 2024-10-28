@@ -4,6 +4,8 @@
 
 package atividades.src;
 
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.Scanner;
 
 public class Atividade17 {
@@ -19,8 +21,9 @@ public class Atividade17 {
 
         double timeSec =  fileSize / net;
         double timeMim = timeSec / 60;
+        BigDecimal numberConverted = new BigDecimal(timeMim).setScale(2, RoundingMode.HALF_UP);
 
-        System.out.println("Vai ser preciso " + timeMim + " minutos!");
+        System.out.println("Vai ser preciso " + numberConverted + " minutos!");
         scanner.close();
     }
 }
