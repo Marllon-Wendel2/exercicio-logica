@@ -816,7 +816,7 @@ Faça um programa que calcule e mostre:
 
 Para finalizar o conjunto de votos tem-se o valor zero.
 
-#### Exercicio 086
+#### Exercicio 086 RESOLVIDO
 
 Desenvolver um programa para verificar a nota do aluno em uma prova com 10
 questões, o programa deve perguntar ao aluno a resposta de cada questão e ao
