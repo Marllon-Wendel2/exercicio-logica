@@ -54,7 +54,28 @@ cliPromise.question("Qual nome do candidato? ", (nome) => {
             cliPromise.question("Terceiro salto: ", (terceiroSalto) => {
                 cliPromise.question("Quarto salto: ", (quartoSalto) => {
                     cliPromise.question("Quinto salto: ", (quintoSalto) => {
+                        const allNotes = [primeiroSalto, segundoSalto, terceiroSalto, quartoSalto,quintoSalto]
+                        allNotes.sort((a,b) => a - b);
+                        const mediaNote = media(allNotes);
                         const atetla = new Atleta(nome, primeiroSalto, segundoSalto, terceiroSalto, quartoSalto,quintoSalto);
+
+                        console.log(`
+                            Atleta: ${atetla.nome}
+
+                            Primeiro Salto: ${atetla.primeiroSalto} m
+                            Segundo Salto: ${atetla.segundoSalto} m
+                            Terceiro Salto: ${atetla.terceiroSalto} m
+                            Quarto Salto: ${atetla.quartoSalto} m
+                            Quinto Salto: ${atetla.quintoSalto} m
+
+                            Melhor salto:  ${allNotes[allNotes.length-1]} m
+                            Pior salto: ${allNotes[0]} m
+                            Média dos demais saltos: ${mediaNote.toFixed(2)} m
+
+                            Resultado final:
+                            ${atetla.nome}: ${mediaNote.toFixed(2)} m
+                            `)
+                            cliPromise.close()
                     })
                 })
             })
@@ -63,4 +84,12 @@ cliPromise.question("Qual nome do candidato? ", (nome) => {
 })
 
 
+function media(list) {
+    let soma =  0
+    list.forEach(note => {
+        const noteNumber = Number(note)
+        soma += noteNumber;
+    });
+    return soma/list.length;
+}
 
