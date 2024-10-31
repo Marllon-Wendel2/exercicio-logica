@@ -845,7 +845,7 @@ Após todos os alunos terem respondido informar:
 Após concluir isto você poderia incrementar o programa permitindo que o
 professor digite o gabarito da prova antes dos alunos usarem o programa.
 
-#### Exercicio 087
+#### Exercicio 087 RESOLVIDO
 
 Em uma competição de salto em distância cada atleta tem direito a cinco saltos.
 No final da série de saltos de cada atleta, o melhor e o pior resultados são

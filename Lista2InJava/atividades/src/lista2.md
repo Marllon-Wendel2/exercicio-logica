@@ -148,11 +148,11 @@ velocidade de um link de Internet (em Mbps), calcule e informe o tempo
 aproximado de download do arquivo usando este link (em minutos).
 
 ### Estruturas de decisão
-#### Exercicio 019
+#### Exercicio 019 REALIZADO
 
 Faça um Programa que peça dois números e imprima o maior deles.
 
-#### Exercicio 020
+#### Exercicio 020 REALIZADO
 
 Faça um Programa que peça um valor e mostre na tela se o valor é
 positivo ou negativo.
