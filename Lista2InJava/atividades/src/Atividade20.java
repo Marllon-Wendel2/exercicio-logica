@@ -19,7 +19,7 @@ public class Atividade20 {
         } else {
             System.out.println("Gênero inválido.");
         }
-
+        
         scanner.close();
     }
 }
