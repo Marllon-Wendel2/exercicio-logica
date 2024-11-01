@@ -162,11 +162,11 @@ positivo ou negativo.
 Faça um Programa que verifique se uma letra digitada é "F" ou "M".
 Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
 
-#### Exercicio 022
+#### Exercicio 022 REALIZADO
 
 Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
 
-#### Exercicio 023
+#### Exercicio 023 REALIZADO
 
 Faça um programa para a leitura de duas notas parciais de um aluno.
 O programa deve calcular a média alcançada por aluno e apresentar:
@@ -174,7 +174,7 @@ O programa deve calcular a média alcançada por aluno e apresentar:
     A mensagem "Reprovado", se a média for menor do que sete;
     A mensagem "Aprovado com Distinção", se a média for igual a dez.
 
-#### Exercicio 024
+#### Exercicio 024 REALIZADO
 
 Faça um Programa que leia três números e mostre o maior deles.
 
@@ -182,7 +182,7 @@ Faça um Programa que leia três números e mostre o maior deles.
 
 Faça um Programa que leia três números e mostre o maior e o menor deles.
 
-#### Exercicio 026 REALIZADO
+#### Exercicio 026 
 
 Faça um programa que pergunte o preço de três produtos e informe qual produto
 você deve comprar, sabendo que a decisão é sempre pelo mais barato.
@@ -191,7 +191,7 @@ você deve comprar, sabendo que a decisão é sempre pelo mais barato.
 
 Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
-#### Exercicio 028 REALIZADO
+#### Exercicio 028 
 
 Faça um Programa que pergunte em que turno você estuda.
 Peça para digitar M-matutino ou V-Vespertino ou N- Noturno.
@@ -199,7 +199,7 @@ Peça para digitar M-matutino ou V-Vespertino ou N- Noturno.
 Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou
 "Valor Inválido!", conforme o caso.
 
-#### Exercicio 029 REALIZADO
+#### Exercicio 029 
 
 As Organizações Tabajara resolveram dar um aumento de salário aos seus
 colaboradores e lhe contrataram para desenvolver o programa que calculará os
@@ -219,7 +219,7 @@ seguinte critério, baseado no salário atual:
         o valor do aumento;
         o novo salário, após o aumento.
 
-#### Exercicio 030 REALIZADO
+#### Exercicio 030
 
 Faça um programa para o cálculo de uma folha de pagamento, sabendo que os
 descontos são do Imposto de Renda, que depende do salário bruto
@@ -246,13 +246,13 @@ No exemplo o valor da hora é 5 e a quantidade de hora é 220.
         Total de descontos              : R$  165,00
         Salário Liquido                 : R$  935,00
 
-#### Exercicio 031  REALIZADO
+#### Exercicio 031
 
 Faça um Programa que leia um número e exiba o dia correspondente da semana.
 (1-Domingo, 2- Segunda, etc.),
 se digitar outro valor deve aparecer valor inválido.
 
-#### Exercicio 032 REALIZDO
+#### Exercicio 032
 
 Faça um programa que lê as duas notas parciais obtidas por um aluno numa
 disciplina ao longo de um semestre, e calcule a sua média.
@@ -269,7 +269,7 @@ O algoritmo deve mostrar na tela as notas, a média,
 o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C
 ou “REPROVADO” se o conceito for D ou E.
 
-#### Exercicio 033 RELIZADO
+#### Exercicio 033
 
 Faça um Programa que peça os 3 lados de um triângulo.
 O programa deverá informar se os valores podem ser um triângulo.
@@ -283,7 +283,7 @@ Dicas:
     Triângulo Isósceles: quaisquer dois lados iguais;
     Triângulo Escaleno: três lados diferentes;
 
-#### Exercicio 034 REALIZADOI
+#### Exercicio 034
 
 Faça um programa que calcule as raízes de uma equação do segundo grau,
 na forma ax² + bx + c.
