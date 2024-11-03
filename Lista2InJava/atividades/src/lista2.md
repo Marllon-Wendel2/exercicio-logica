@@ -178,7 +178,7 @@ O programa deve calcular a média alcançada por aluno e apresentar:
 
 Faça um Programa que leia três números e mostre o maior deles.
 
-#### Exercicio 025 REPITIVO
+#### Exercicio 025 REALIZADO
 
 Faça um Programa que leia três números e mostre o maior e o menor deles.
 
