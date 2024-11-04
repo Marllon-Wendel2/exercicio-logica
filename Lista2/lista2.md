@@ -876,7 +876,7 @@ A saída do programa deve ser conforme o exemplo abaixo:
     Resultado final:
     Rodrigo Curvêllo: 5.9 m
 
-#### Exercicio 088
+#### Exercicio 088 REALIZADO
 
 Em uma competição de ginástica, cada atleta recebe votos de sete jurados.
 A melhor e a pior nota são eliminadas.
@@ -904,7 +904,7 @@ Um exemplo de saída do programa deve ser conforme o exemplo abaixo:
     Pior nota: 7.5
     Média: 9,04
 
-#### Exercicio 089
+#### Exercicio 089 REALIZADO
 
 Faça um programa que peça um numero inteiro positivo e em seguida mostre este
 numero invertido.
@@ -912,7 +912,7 @@ Exemplo:
   12376489
   => 98467321
 
-#### Exercicio 090
+#### Exercicio 090 REALIZADO
 
 Faça um programa que mostre os n termos da Série a seguir:
   S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m.
