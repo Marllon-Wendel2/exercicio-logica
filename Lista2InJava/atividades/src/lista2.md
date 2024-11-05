@@ -182,16 +182,16 @@ Faça um Programa que leia três números e mostre o maior deles.
 
 Faça um Programa que leia três números e mostre o maior e o menor deles.
 
-#### Exercicio 026 
+#### Exercicio 026 REALIZADO
 
 Faça um programa que pergunte o preço de três produtos e informe qual produto
 você deve comprar, sabendo que a decisão é sempre pelo mais barato.
 
-#### Exercicio 027
+#### Exercicio 027 REPETITIVO
 
 Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
-#### Exercicio 028 
+#### Exercicio 028 REALIZADO
 
 Faça um Programa que pergunte em que turno você estuda.
 Peça para digitar M-matutino ou V-Vespertino ou N- Noturno.
