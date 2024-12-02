@@ -16,11 +16,5 @@ function aroundGrade(grade) {
     return(grade)
 }
 
-// aroundGrade(5)
-// aroundGrade(73)
-// aroundGrade(70)
-// aroundGrade(89)
-// aroundGrade(84)
-
 const grades = [73, 67, 38, 33]
 gradingStudents(grades)
