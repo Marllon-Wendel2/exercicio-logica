@@ -16,5 +16,8 @@
     "url": "https://github.com/Marllon-Wendel2/exercicio-logica/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/Marllon-Wendel2/exercicio-logica#readme"
+  "homepage": "https://github.com/Marllon-Wendel2/exercicio-logica#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
 }
